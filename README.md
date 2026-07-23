@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on Java, SpringBoot and Node.js<br> I’m currently building a Poker Game
+I’m currently working on Java, SpringBoot and MERN Stack<br> I’m currently building a Poker Game
 
 
 ## 🌐 Socials:
